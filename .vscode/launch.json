@@ -10,7 +10,7 @@
       "sourceMapPathOverrides": {
         "webpack:///src/*": "${webRoot}/*"
       },
-      "preLaunchTask": "startDevServer"
+      "preLaunchTask": "startDevServer",
     }
   ]
 }
