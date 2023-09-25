@@ -12,6 +12,7 @@
         <li><router-link to="/test6">Test6</router-link></li>
         <li><router-link to="/test7">Test7</router-link></li>
         <li><router-link to="/test8">Test8</router-link></li>
+        <li><router-link to="/socket">TestSocket</router-link></li>
       </ul>
     </nav>
   </div>

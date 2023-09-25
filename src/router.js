@@ -43,6 +43,10 @@ const router = createRouter({
       path: '/test8',
       component: () => import('./components/Test8.vue'),
     },
+    {
+      path: '/socket',
+      component: () => import('./components/socket.vue'),
+    },
   ],
 });
 
